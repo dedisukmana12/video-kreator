@@ -1,0 +1,10 @@
+{
+  "name": "ComicFlow AI",
+  "description": "A cutting-edge comic creation suite that uses Gemini for scripting and image generation, Veo for cinematic panel animation, and Flash-TTS for character voices.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
